@@ -1,12 +1,37 @@
-## Hi there 👋
+<h1 align="center">
+  <a
+    target="_blank"
+    href="https://hagens.com.br/"
+  >
+    <img
+      align="center"
+      alt="Hagens banner"
+      src="https://github.com/hagens-ds/advanced-data-integration/blob/main/app/assets/img/hagens_banner_cover.jpeg?raw=true"
+      style="width:100%;"
+    />
+  </a>
+</h1>
 
+### Hello there! 👋
+
+We merge the art of data analysis with scientific precision. Our team of experts in mathematics and statistics develops customized solutions using advanced technologies in our innovation laboratory. We turn data into valuable insights to drive our client's success. We merge the art of data analysis with scientific precision. Our team of experts in mathematics and statistics develops customized solutions using advanced technologies in our innovation laboratory. We turn data into valuable insights to drive our client's success.
+
+- 💻  Department of Data Science at [Hagens](https://hagens.com.br/)
+- 🌎  Based in Campinas, Brazil
+    
 <!--
+**hagens-ds/hagens-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Here are some ideas to get you started:**
+Here are some ideas to get you started:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F509DD&height=120&section=footer"/>

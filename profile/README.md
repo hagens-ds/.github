@@ -12,8 +12,6 @@
   </a>
 </h1>
 
-### Hello there! 👋
-
 We merge the art of data analysis with scientific precision. Our team of experts in mathematics and statistics develops customized solutions using advanced technologies in our innovation laboratory. We turn data into valuable insights to drive our client's success. 
 
 - 💻  Department of Data Science at [Hagens](https://hagens.com.br/)

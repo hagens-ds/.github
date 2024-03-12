@@ -6,7 +6,7 @@
     <img
       align="center"
       alt="Hagens banner"
-      src=" https://github.com/hagens-ds/.github/blob/main/app/assets/img/hagens_banner_cover.jpeg?raw=true"
+      src="https://github.com/hagens-ds/.github/blob/main/profile/hagens_banner_cover.jpeg?raw=true"
     />
   </a>
 </h1>
